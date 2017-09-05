@@ -1,2 +1,2 @@
 # first-git-repo
-this is my first git repo
+I like coding and im having fun.
